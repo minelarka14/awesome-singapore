@@ -1,4 +1,4 @@
-# Awesome Singapore
+# 🇸🇬 Awesome Singapore
 
 <br>
 

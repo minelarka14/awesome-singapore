@@ -1,19 +1,19 @@
-# Awesome Singapore
+# 🇸🇬 Awesome Singapore
 
-<br>
+<img src="https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667" /> <img src="https://shields.io/github/stars/minelarka14/awesome-singapore?style=social"/> <img src="https://shields.io/github/forks/minelarka14/awesome-singapore?style=social"/>
 
-<img src="https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667" />
-<img src="https://shields.io/github/stars/minelarka14/awesome-singapore?style=social"/>
-<img src="https://shields.io/github/forks/minelarka14/awesome-singapore?style=social"/>
+A curated list of awesome resources related to Singapore.
 
-<br>
-<br>
+This list only exists because of **YOU**. If you have any suggestions on what to add, please [create a pull request or issue](https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/creating-an-issue-or-pull-request) on this repository. If you're unsure on how to do this, don't worry! You can e-mail the maintainer at [muhammadosaid06@gmail.com](mailto:muhammadosaid06@gmail.com?subject=%5BGITHUB-AWESOME-SG%5D%20New%20Idea%20%3CA%20short%20description%20of%20you%20idea%3E&body=Hello%2C%20I%20have%20a%20new%20Idea%20for%20your%20GitHub%20awesome%20Singapore%20repository.%20%0A%0A--%3E%20Your%20Idea%0A%0A--%3E%20Which%20category%20will%20it%20fall%20under%0A%0A%0A).
 
-> A curated list of awesome resources related to Singapore.
+### Maintainer's note:
 
-> This list is can only exist because of <b>YOU</b>. If you have ideas of things to add please [create a pull request or issue](https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/creating-an-issue-or-pull-request). If you don't know how to do this, don't worry! You can email me at [muhammadosaid06@gmail.com](mailto:muhammadosaid06@gmail.com?subject=%5BGITHUB-AWESOME-SG%5D%20New%20Idea%20%3CA%20short%20description%20of%20you%20idea%3E&body=Hello%2C%20I%20have%20a%20new%20Idea%20for%20your%20GitHub%20awesome%20Singapore%20repository.%20%0A%0A--%3E%20Your%20Idea%0A%0A--%3E%20Which%20category%20will%20it%20fall%20under%0A%0A%0A)
-
-> I spent quite a while on this. If you could support me by following me on my socials, it would be greatly appreciated! <img src="https://shields.io/github/followers/minelarka14?label=Follow"/> <img src="https://img.shields.io/twitter/follow/minelarka13?style=social"/> and follow me on [Instagram](https://www.instagram.com/minelarka13/). Thank you!
+> I spent quite a while of time on this. If you could support me by following me on my socials, it would be greatly appreciated!
+>
+> <img src="https://shields.io/github/followers/minelarka14?label=Follow" /> <img src="https://img.shields.io/twitter/follow/minelarka13?style=social" /> <a href="https://www.instagram.com/minelarka13/"><img src="https://img.shields.io/badge/Instagram-@minelarka13-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+>
+>
+> Thank you, and I hope you enjoy this resource!
 
 ## Table of Contents
 

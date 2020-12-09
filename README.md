@@ -10,7 +10,7 @@ This list only exists because of **YOU**. If you have any suggestions on what to
 
 > I spent quite a while of time on this. If you could support me by following me on my socials, it would be greatly appreciated!
 >
-> <img src="https://shields.io/github/followers/minelarka14?label=Follow" /> <img src="https://img.shields.io/twitter/follow/minelarka13?style=social" /> <a href="https://www.instagram.com/minelarka13/"><img src="https://img.shields.io/badge/Instagram-@minelarka13-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+> <img src="https://shields.io/github/followers/minelarka14?label=Follow" /> <img src="https://img.shields.io/twitter/follow/minelarka13?style=social" /> <a href="https://www.instagram.com/minelarka13/"><img src="https://img.shields.io/badge/Instagram-@minelarka13-E4405F?logo=instagram&logoColor=white" /></a>
 >
 >
 > Thank you, and I hope you enjoy this resource!

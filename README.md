@@ -26,6 +26,7 @@ This list only exists because of **YOU**. If you have any suggestions on what to
     -   [MRT](#mrt)
     -   [Bus](#bus)
     -   [Ride sharing](#ride-sharing)
+    -   [Cars](#cars)
 -   [Communication](#communication)
     -   [Discord](#discord)
     -   [Telegram](#telegram)
@@ -113,6 +114,10 @@ This list only exists because of **YOU**. If you have any suggestions on what to
 
 -   [Grab](https://www.grab.com/sg/)
 -   [Gojek](https://www.gojek.com/sg/)
+
+### Cars
+
+-   [Carma](https://carma.sg/) - used cars for sale in Singapore, scored, plus COE prices and car calculators
 
 ## Communication
 
